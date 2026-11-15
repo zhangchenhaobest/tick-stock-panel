@@ -1,3 +1,29 @@
+# tick-stock-panel
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+TSP, a self-hosted zero-ops A-share quant workbench for custom strategies, monitoring and backtesting, with LLM-driven strategy design and pluggable data sources.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+TSP 自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台，支持 LLM 策略定制、个股分析与复盘，可自由接入第三方数据源。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 <a id="top"></a>
 
